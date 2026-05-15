@@ -6,7 +6,10 @@ AI-powered research automation workflow built using n8n and OpenAI APIs.
 - AI-generated business research summaries
 - Structured insights extraction
 - Google Sheets integration
-- Workflow automation
+- Muti-channel Workflow automation
+- Semantic Scholar integration
+- ElevenLabs voice integration
+- Conditional routing in n8n
 
 ## Tech Stack
 - n8n
