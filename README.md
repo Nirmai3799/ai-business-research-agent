@@ -12,6 +12,7 @@ AI-powered research automation workflow built using n8n and OpenAI APIs.
 - Conditional routing in n8n
 - Rag pipeline
 - Supabase vector database
+- Retrieval vector store
 
 ## Tech Stack
 - n8n
