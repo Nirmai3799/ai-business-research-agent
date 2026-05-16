@@ -10,6 +10,8 @@ AI-powered research automation workflow built using n8n and OpenAI APIs.
 - Semantic Scholar integration
 - ElevenLabs voice integration
 - Conditional routing in n8n
+- Rag pipeline
+- Supabase vector database
 
 ## Tech Stack
 - n8n
